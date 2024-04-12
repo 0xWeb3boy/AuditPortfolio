@@ -24,6 +24,5 @@ A compilation of my findings and Reports
 |:--:|:--:|:--:|:--:|:--:|
 | Ape Launchpad | 3M, 2L | #4 | $676 | Solidity |
 | Lagrange_State_Committee| 1M | #4 | $877 | Solidity |
-
 | Overall | 4 M, 2 L |   | $1553 | | 
 
