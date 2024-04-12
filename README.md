@@ -20,9 +20,10 @@ A compilation of my findings and Reports
 
 ## Secure3 Private Contests
 
-| Contest | Findings | Ranking | Payout | Language |  |
+| Contest | Findings | Ranking | Payout | Language |  
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [Ape Launchpad] | 3M, 2L | #4 | $676 | Solidity |
+| Ape Launchpad | 3M, 2L | #4 | $676 | Solidity |
+| Lagrange_State_Committee| 1M | #4 | $877 | Solidity |
 
-| Overall | 1 H, 2 M | 547 rank Last 365 days | $898 | | |
+| Overall | 4 M, 2 L |   | $1553 | | 
 
