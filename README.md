@@ -23,7 +23,7 @@ A compilation of my findings and Reports, Also I compete with my other name `pse
 | Contest | Findings | Ranking | Payout | Language |  
 |:--:|:--:|:--:|:--:|:--:|
 | RadicalxChange | 1H | #4 | $1.18 | Solidity |
-| Axis-Finance | 1H | #4 | $1498.63 | Solidity |
+| Axis-Finance | 1H | #10 | $1498.63 | Solidity |
 | Overall | 2 H |   | $1499.81 | | 
 
 ## Secure3 Private Contests
