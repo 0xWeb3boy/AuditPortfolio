@@ -26,6 +26,13 @@ A compilation of my findings and Reports, Also I compete with my other name `pse
 | Axis-Finance | 1H | #10 | $1498.63 | Solidity |
 | Overall | 2 H |   | $1499.81 | | 
 
+## CodeHawks Contests
+
+| Contest | Findings | Ranking | Payout | Language |  
+|:--:|:--:|:--:|:--:|:--:|
+| BeedleFi | 1H | #113 | $21.95 | Solidity |
+| Overall | 1 H |   | $21.95 | | 
+
 ## Secure3 Private Contests
 
 | Contest | Findings | Ranking | Payout | Language |  
