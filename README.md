@@ -1,5 +1,5 @@
 # AuditPortfolio
-A compilation of my findings and Reports
+A compilation of my findings and Reports, Also I compete with my other name `pseudoArtist` on sherlock
 
 # 2023 Onward
 
@@ -17,6 +17,14 @@ A compilation of my findings and Reports
 | [veRWA](https://code4rena.com/reports/2023-08-verwa) | 1 Low | #104 | $4.23 | Solidity |  [📄](https://code4rena.com/reports/2023-08-verwa)|
 | Overall | 1 H, 2 M , 1 L | 547 rank Last 365 days | $898 | | |
 
+
+## Sherlock Contests
+
+| Contest | Findings | Ranking | Payout | Language |  
+|:--:|:--:|:--:|:--:|:--:|
+| RadicalxChange | 1H | #4 | $1.18 | Solidity |
+| Axis-Finance | 1H | #4 | $1498.63 | Solidity |
+| Overall | 2 H |   | $1499.81 | | 
 
 ## Secure3 Private Contests
 
