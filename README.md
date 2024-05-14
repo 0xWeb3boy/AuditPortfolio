@@ -1,7 +1,10 @@
 # AuditPortfolio
-A compilation of my findings and Reports, Also I compete with my other name `pseudoArtist` on sherlock
+Hello, I am 0xWeb3Boy, a cybersecurity researcher specializing in blockchain security. I have been actively auditing EVM based smart contracts since 2023.
+Apart from it I have worked with various reputed organisations in my country before turning into a complete whitehat. I've worked at ISRO, The Income Tax Department, and the Ministry of Defence, I now focus on fortifying decentralized ecosystems. I compete at platforms like Code4Arena, Sherlock, and Secure3, honing my skills and staying ahead of emerging threats. Join me in shaping a secure future for blockchain technology and beyond.Here is a list of compilation of my findings and Reports, Also I compete with my other name `pseudoArtist` on sherlock.
 
-# 2023 Onward
+
+
+# 2023 Onward An overall 4 High, 8 Medium and 3 Low findings have been uncovered by me across all the platforms.
 
 ## Secure3 Private Contests
 
@@ -17,7 +20,8 @@ A compilation of my findings and Reports, Also I compete with my other name `pse
 |:--:|:--:|:--:|:--:|:--:|
 | RadicalxChange | 1H | #4 | $1.18 | Solidity |
 | Axis-Finance | 1H | #10 | $1498.63 | Solidity |
-| Overall | 2 H |   | $1499.81 | | 
+| Zivoe Finance | 2M | #Report yet to publish | Report yet to publish | Solidity |
+| Overall | 2 H | 2M |   | $1499.81 | | 
 
 ## CodeHawks Contests
 
