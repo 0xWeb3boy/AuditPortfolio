@@ -4,7 +4,7 @@ Apart from it I have worked with various reputed organisations in my country bef
 
 
 
-# 2023 Onward An overall 4 High, 8 Medium and 3 Low findings have been uncovered by me across all the platforms.
+# 2023 Onward An overall 4 High, 8 Medium and 6 Low findings have been uncovered by me across all the platforms.
 
 ## Secure3 Private Contests
 
@@ -12,7 +12,9 @@ Apart from it I have worked with various reputed organisations in my country bef
 |:--:|:--:|:--:|:--:|:--:|
 | Ape Launchpad | 3M, 2L | #4 | $676 | Solidity |
 | Lagrange_State_Committee| 1M | #4 | $877 | Solidity |
-| Overall | 4 M, 2 L |   | $1553 | | 
+| zklink MergeToken| 1M , 2L | -- | $102 | Solidity |
+| Loxodrome| 1L | -- | $128 | Solidity |
+| Overall | 5 M, 4 L |   | $1783 | | 
 
 ## Sherlock Contests
 
@@ -20,15 +22,15 @@ Apart from it I have worked with various reputed organisations in my country bef
 |:--:|:--:|:--:|:--:|:--:|
 | RadicalxChange | 1H | #4 | $1.18 | Solidity |
 | Axis-Finance | 1H | #10 | $1498.63 | Solidity |
-| Zivoe Finance | 2M | #Report yet to publish | Report yet to publish | Solidity |
-| Overall | 2 H | 2M |   | $1499.81 | | 
+| Zivoe Finance | 1M |  | $431 | Solidity |
+| Overall | 2 H | 1M |   | $1930 |Solidity | 
 
 ## CodeHawks Contests
 
 | Contest | Findings | Ranking | Payout | Language |  
 |:--:|:--:|:--:|:--:|:--:|
 | BeedleFi | 1H | #113 | $21.95 | Solidity |
-| Overall | 1 H |   | $21.95 | | 
+| Overall | 1 H |  1L | $21.95 | | 
 
 ## Code4rena
 
