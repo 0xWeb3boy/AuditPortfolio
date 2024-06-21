@@ -1,9 +1,11 @@
 # AuditPortfolio
 Hello, I am 0xWeb3Boy, a cybersecurity researcher specializing in blockchain security. I have been actively auditing EVM based smart contracts since 2023.
 Below is my YouTube where I make videos of how I do audits 👇
+
 https://youtu.be/txEiaxSUJJs
 
 Below is my Twitter profile 👇
+
 https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
 
 Apart from it I have worked with various reputed organisations in my country before turning into a complete whitehat. I've worked at ISRO, The Income Tax Department, and the Ministry of Defence, I now focus on fortifying decentralized ecosystems. I compete at platforms like Code4Arena, Sherlock, and Secure3. Here is a list of compilation of my findings and Reports, Also I compete with my other name `pseudoArtist` on sherlock.
