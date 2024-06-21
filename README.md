@@ -14,28 +14,10 @@ Apart from it I have worked with various reputed organisations in my country bef
 | Lagrange_State_Committee| 1M | #4 | $877 | Solidity |
 | zklink MergeToken| 1M , 2L | -- | $102 | Solidity |
 | Loxodrome| 1L | -- | $128 | Solidity |
-| Overall | 5 M, 4 L |   | $1783 | | 
-
-## Sherlock Contests
-
-| Contest | Findings | Ranking | Payout | Language |  
-|:--:|:--:|:--:|:--:|:--:|
 | RadicalxChange | 1H | #4 | $1.18 | Solidity |
 | Axis-Finance | 1H | #10 | $1498.63 | Solidity |
 | Zivoe Finance | 1M |  | $431 | Solidity |
-| Overall | 2 H | 1M |   | $1930 |Solidity | 
-
-## CodeHawks Contests
-
-| Contest | Findings | Ranking | Payout | Language |  
-|:--:|:--:|:--:|:--:|:--:|
 | BeedleFi | 1H | #113 | $21.95 | Solidity |
-| Overall | 1 H |  1L | $21.95 | | 
-
-## Code4rena
-
-| Contest | Findings | Ranking | Payout | Language | Report |
-|:--:|:--:|:--:|:--:|:--:|:--:|
 | [AI Arena](https://code4rena.com/audits/2024-02-ai-arena#top) | Grade A Analysis | #38 | $166 | Solidity |  [📄](https://code4rena.com/reports/2023-09-venus) |
 | [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime) | 1 M | #53 | $53.88 | Solidity |  [📄](https://code4rena.com/reports/2023-09-venus) |
 | [Dopex](https://code4rena.com/audits/2023-08-dopex) | 1 H, 1 M | #110 | $46.26 | Solidity |  [📄](https://code4rena.com/reports/2023-08-dopex) |
@@ -44,6 +26,27 @@ Apart from it I have worked with various reputed organisations in my country bef
 | [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs) | Grade A Analysis | #62 | $88.73 | Solidity |  [📄](https://code4rena.com/reports/2023-10-ethena)|
 | [BrahmaFi](https://code4rena.com/reports/2023-10-brahma) | Grade A Analysis | #28 | $113.54 | Solidity |  [📄](https://code4rena.com/reports/2023-10-brahma)|
 | [veRWA](https://code4rena.com/reports/2023-08-verwa) | 1 Low | #104 | $4.23 | Solidity |  [📄](https://code4rena.com/reports/2023-08-verwa)|
+| Overall | 1 H |  1L | $21.95 | | 
+| Overall | 5 M, 4 L |   | $1783 | | 
+
+## Sherlock Contests
+
+| Contest | Findings | Ranking | Payout | Language |  
+|:--:|:--:|:--:|:--:|:--:|
+
+| Overall | 2 H | 1M |   | $1930 |Solidity | 
+
+## CodeHawks Contests
+
+| Contest | Findings | Ranking | Payout | Language |  
+|:--:|:--:|:--:|:--:|:--:|
+
+
+## Code4rena
+
+| Contest | Findings | Ranking | Payout | Language | Report |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+
 | Overall | 1 H, 2 M , 1 L | 350 rank Last 90 days | $898 | | |
 
 
