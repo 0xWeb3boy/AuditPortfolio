@@ -28,25 +28,7 @@ Apart from it I have worked with various reputed organisations in my country bef
 | [veRWA](https://code4rena.com/reports/2023-08-verwa) | 1 Low | #104 | $4.23 | Solidity |  [📄](https://code4rena.com/reports/2023-08-verwa)|
 | Overall | 4H, 8 M, 6 L |   | $ 4633 | | 
 
-## Sherlock Contests
 
-| Contest | Findings | Ranking | Payout | Language |  
-|:--:|:--:|:--:|:--:|:--:|
-
-| Overall | 2 H | 1M |   | $1930 |Solidity | 
-
-## CodeHawks Contests
-
-| Contest | Findings | Ranking | Payout | Language |  
-|:--:|:--:|:--:|:--:|:--:|
-
-
-## Code4rena
-
-| Contest | Findings | Ranking | Payout | Language | Report |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-
-| Overall | 1 H, 2 M , 1 L | 350 rank Last 90 days | $898 | | |
 
 
 
