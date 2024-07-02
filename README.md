@@ -1,4 +1,7 @@
 # AuditPortfolio
+
+## 2023 Onward An overall 9 High, 17 Medium and 6 Low findings have been uncovered by me across all the platforms.
+
 Hello, I am 0xWeb3Boy, a cybersecurity researcher specializing in blockchain security. I have been actively auditing EVM based smart contracts since 2023.
 Below is my YouTube where I make videos of how I do audits 
 👇
@@ -17,7 +20,7 @@ https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
 
 
 
-# 2023 Onward An overall 9 High, 17 Medium and 6 Low findings have been uncovered by me across all the platforms.
+
 
 ## Here is the list of all the vulnerabilities I found accross Secure3/Code4Arena/Sherlock/Codehawks public and private Contests
 
