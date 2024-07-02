@@ -17,12 +17,13 @@ https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
 
 
 
-# 2023 Onward An overall 4 High, 8 Medium and 6 Low findings have been uncovered by me across all the platforms.
+# 2023 Onward An overall 9 High, 17 Medium and 6 Low findings have been uncovered by me across all the platforms.
 
 ## Here is the list of all the vulnerabilities I found accross Secure3/Code4Arena/Sherlock/Codehawks public and private Contests
 
 | Contest | Findings | Ranking | Payout | Language |  
 |:--:|:--:|:--:|:--:|:--:|
+| NOYA | 5H,9M | #21 | $695 | Solidity |
 | Ape Launchpad | 3M, 2L | #4 | $676 | Solidity |
 | Lagrange_State_Committee| 1M | #4 | $877 | Solidity |
 | zklink MergeToken| 1M , 2L | -- | $102 | Solidity |
@@ -39,7 +40,7 @@ https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
 | [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs) | Grade A Analysis | #62 | $88.73 | Solidity |  [📄](https://code4rena.com/reports/2023-10-ethena)|
 | [BrahmaFi](https://code4rena.com/reports/2023-10-brahma) | Grade A Analysis | #28 | $113.54 | Solidity |  [📄](https://code4rena.com/reports/2023-10-brahma)|
 | [veRWA](https://code4rena.com/reports/2023-08-verwa) | 1 Low | #104 | $4.23 | Solidity |  [📄](https://code4rena.com/reports/2023-08-verwa)|
-| Overall | 4H, 8 M, 6 L |   | $ 4633 | | 
+| Overall | 9H, 19M, 6 L |   | $ 5328 | | 
 
 
 
