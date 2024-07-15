@@ -1,6 +1,6 @@
 # AuditPortfolio
 
-## 2023 Onward An overall 9 High, 17 Medium and 6 Low findings have been uncovered by me across all the platforms.
+## 2023 Onward An overall 9 High, 22 Medium and 6 Low findings have been uncovered by me across all the platforms.
 
 Hello, I am 0xWeb3Boy, a cybersecurity researcher specializing in blockchain security. I have been actively auditing EVM based smart contracts since 2023.
 Below is my YouTube where I make videos of how I do audits 
@@ -26,7 +26,8 @@ https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
 
 | Contest | Findings | Ranking | Payout | Language |  
 |:--:|:--:|:--:|:--:|:--:|
-| NOYA | 5H,9M | #21 | $695 | Solidity |
+| Predy | 5M | #18 | $479 | Solidity [Report](https://code4rena.com/audits/2024-05-predy#top) |
+| NOYA | 5H,9M | #21 | $695 | Solidity [Report](https://code4rena.com/audits/2024-04-noya#top)|
 | Ape Launchpad | 3M, 2L | #4 | $676 | Solidity |
 | Lagrange_State_Committee| 1M | #4 | $877 | Solidity |
 | zklink MergeToken| 1M , 2L | -- | $102 | Solidity |
