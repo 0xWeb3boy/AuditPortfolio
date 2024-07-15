@@ -44,7 +44,7 @@ https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
 | [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs) | Grade A Analysis | #62 | $88.73 | Solidity |  [📄](https://code4rena.com/reports/2023-10-ethena)|
 | [BrahmaFi](https://code4rena.com/reports/2023-10-brahma) | Grade A Analysis | #28 | $113.54 | Solidity |  [📄](https://code4rena.com/reports/2023-10-brahma)|
 | [veRWA](https://code4rena.com/reports/2023-08-verwa) | 1 Low | #104 | $4.23 | Solidity |  [📄](https://code4rena.com/reports/2023-08-verwa)|
-| Overall | 9H, 19M, 6 L |   | $ 5328 | | 
+| Overall | 9H, 19M, 6 L |   | $ 5807 | | 
 
 
 
