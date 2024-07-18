@@ -46,7 +46,7 @@ https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
 | [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs) | Grade A Analysis  |  
 | [BrahmaFi](https://code4rena.com/reports/2023-10-brahma) | Grade A Analysis | #28 | 
 | [veRWA](https://code4rena.com/reports/2023-08-verwa) | 1 Low | #104 | 
-| Overall | 9H, 23M , 6 L |   |
+| Overall | 9H, 23M , 7 L |   |
 
 
 
