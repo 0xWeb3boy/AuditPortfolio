@@ -1,6 +1,6 @@
 # AuditPortfolio
 
-## 2023 Onward An overall 9 High, 23 Medium and 7 Low findings have been uncovered by me across all the platforms.
+## 2023 Onward An overall 10 High, 23 Medium and 7 Low findings have been uncovered by me across all the platforms.
 
 Hello, I am 0xWeb3Boy, a cybersecurity researcher specializing in blockchain security. I have been actively auditing EVM based smart contracts since 2023.
 Below is my YouTube where I make videos of how I do audits 
@@ -26,6 +26,7 @@ https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
 
 | Contest | Findings | Ranking | 
 |:--:|:--:|:--:|
+| [Notional Leveraged Vaults](https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/28) | 1H | -- |  
 | [FBTC](https://app.secure3.io/614576bf93?tab=winners) | 1M | #7 |  
 | [Enders V1](https://app.secure3.io/16a8f0eebf?tab=winners) | 1L | #15 |  
 | [Predy](https://code4rena.com/audits/2024-05-predy#top) | 5M | #18  |  
@@ -46,7 +47,7 @@ https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
 | [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs) | Grade A Analysis  |  
 | [BrahmaFi](https://code4rena.com/reports/2023-10-brahma) | Grade A Analysis | #28 | 
 | [veRWA](https://code4rena.com/reports/2023-08-verwa) | 1 Low | #104 | 
-| Overall | 9H, 23M , 7 L |   |
+| Overall | 10H, 23M , 7 L |   |
 
 
 
