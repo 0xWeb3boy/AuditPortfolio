@@ -4,8 +4,8 @@ Hello, I am 0xWeb3Boy, a cybersecurity researcher specializing in blockchain sec
 
 # Findings across all platforms
 
-## 10 High 
-## 23 Medium 
+## 12 High 
+## 24 Medium 
 ## 7 Low 
 
 
@@ -24,6 +24,7 @@ https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
 
 | Contest | Findings | Ranking | 
 |:--:|:--:|:--:|
+| [Velocimeter](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | 2H , 1M | -- |  
 | [Notional Leveraged Vaults](https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/28) | 1H | -- |  
 | [FBTC](https://app.secure3.io/614576bf93?tab=winners) | 1M | #7 |  
 | [Enders V1](https://app.secure3.io/16a8f0eebf?tab=winners) | 1L | #15 |  
@@ -45,7 +46,7 @@ https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
 | [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs) | Grade A Analysis  |  
 | [BrahmaFi](https://code4rena.com/reports/2023-10-brahma) | Grade A Analysis | #28 | 
 | [veRWA](https://code4rena.com/reports/2023-08-verwa) | 1 Low | #104 | 
-| Overall | 10H, 23M , 7 L |   |
+| Overall | 12H, 24M , 7 L |   |
 
 
 
