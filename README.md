@@ -25,8 +25,8 @@ https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
 | Contest | Findings | Ranking | 
 |:--:|:--:|:--:|
 | [Sentiment](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) |  4M | #17 |  
-| [ZetaChain] | 1H , 3M | -- |  
-| [Velocimeter](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | 2H , 1M | #20 |  
+| [ZetaChain] | 1H , 3M | #20 |  
+| [Velocimeter](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | 2H , 1M | -- |  
 | [Notional Leveraged Vaults](https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/28) | 1H | -- |  
 | [FBTC](https://app.secure3.io/614576bf93?tab=winners) | 1M | #7 |  
 | [Enders V1](https://app.secure3.io/16a8f0eebf?tab=winners) | 1L | #15 |  
