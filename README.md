@@ -22,7 +22,7 @@ https://x.com/0xWeb3boy
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
-|1| BlastTheBaloon | Prvate Audit |  2H, 3M, 2L |  |  
+|1| BlastTheBaloon | Private Audit |  2H, 3M, 2L |  |  
 |2| [AdamDefi](https://app.secure3.io/b14f6c27c9?tab=submission) | Secure3| 1H, 3L |  |  
 |3| [Sentiment](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | Sherlock |  4M | #17 |  
 |4| ZetaChain | Cantina |1H , 3M | #20 |  
