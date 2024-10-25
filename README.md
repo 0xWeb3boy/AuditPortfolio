@@ -25,8 +25,8 @@ https://x.com/0xWeb3boy
 |1| BlastTheBaloon | Prvate Audit |  2H, 3M, 2L |  |  
 |2| [AdamDefi](https://app.secure3.io/b14f6c27c9?tab=submission) | Secure3| 1H, 3L |  |  
 |3| [Sentiment](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | Sherlock |  4M | #17 |  
-|4| [ZetaChain] | Cantina |1H , 3M | #20 |  
-|5| Unidsclosed |Private Audit| 2H , 4M, 7L|  |  
+|4| ZetaChain | Cantina |1H , 3M | #20 |  
+|5| Undisclosed |Private Audit| 2H , 4M, 7L|  |  
 |6| [Velocimeter](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | Sherlock | 2H , 1M | -- |  
 |7| [Notional Leveraged Vaults](https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/28) |Sherlock| 1H | -- |  
 |8| [FBTC](https://app.secure3.io/614576bf93?tab=winners) | Secure3 |1M | #7 |  
