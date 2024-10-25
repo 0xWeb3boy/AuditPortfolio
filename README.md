@@ -11,11 +11,9 @@ Hello, I am 0xWeb3Boy, a cybersecurity researcher specializing in blockchain sec
 
 
 ## YouTube :
-https://youtu.be/txEiaxSUJJs
-
+https://www.youtube.com/@WEB3BOY
 ## Twitter
-https://x.com/0xWeb3boy?t=vGMtbZD-Pqwuq_4wl23BCA&s=09
-
+https://x.com/0xWeb3boy
 
 
 
