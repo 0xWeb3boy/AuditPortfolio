@@ -49,7 +49,7 @@ https://x.com/0xWeb3boy
 | [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs) |Code4Arena Grade| A Analysis  |  
 | [BrahmaFi](https://code4rena.com/reports/2023-10-brahma) |Code4Arena| Grade A Analysis | #28 | 
 | [veRWA](https://code4rena.com/reports/2023-08-verwa) |Code4Arena| 1 Low | #104 | 
-| Overall | 18H, 38M, 21L |   |
+| Overall |  |18H, 38M, 21L|   |
 
 
 
