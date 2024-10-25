@@ -22,12 +22,11 @@ https://x.com/0xWeb3boy
 
 | Contest | Findings | Ranking | 
 |:--:|:--:|:--:|
-
 | BlastTheBaloon(Prvate Audit) |  2H, 3M, 2L |  |  
 | [AdamDefi](https://app.secure3.io/b14f6c27c9?tab=submission) |  1H, 3L |  |  
 | [Sentiment](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) |  4M | #17 |  
 | [ZetaChain] | 1H , 3M | #20 |  
-| Private Audit (Unidsclosed) | 2H , 4M, 7L| #20 |  
+| Private Audit (Unidsclosed) | 2H , 4M, 7L|  |  
 | [Velocimeter](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | 2H , 1M | -- |  
 | [Notional Leveraged Vaults](https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/28) | 1H | -- |  
 | [FBTC](https://app.secure3.io/614576bf93?tab=winners) | 1M | #7 |  
