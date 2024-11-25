@@ -24,7 +24,8 @@ https://x.com/0xWeb3boy
 |:--:|:--:|:--:|:--:|:--:|
 |1| [Covalent - EWM Light Client](https://audits.sherlock.xyz/contests/618/leaderboard) | Sherlock |  1M | #3 |  
 |2| [Dayvidende](https://github.com/user-attachments/files/17892788/DVE_AuditReport.md)| Private Audit |  3H, 4M, 1L ||  
-|3| BlastTheBaloon | Private Audit |  2H, 3M, 2L |  |  
+|3| [BlastTheBaloon.md](https://github.com/user-attachments/files/17903931/BTB_Audit_Report.md)
+ | Private Audit |  2H, 3M, 2L |  |  
 |4| [AdamDefi](https://app.secure3.io/b14f6c27c9?tab=submission) | Secure3| 1H, 3L |  |  
 |5| [Sentiment](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | Sherlock |  4M | #17 |  
 |6| ZetaChain | Cantina |1H , 3M | #20 |  
