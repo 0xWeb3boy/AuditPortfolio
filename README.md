@@ -1,6 +1,6 @@
 # AuditPortfolio
 ## 85+ vulnerabilities found 
-Hello, I am 0xWeb3Boy, a cybersecurity researcher specializing in blockchain security. I have been actively auditing EVM based smart contracts since 2023 and have found more than 75+ vulnerabilites across all the audit platforms. I compete at platforms like Code4Arena, Sherlock, and Secure3. I compete with my other name `pseudoArtist` on sherlock
+Hello, I am 0xWeb3Boy, a cybersecurity researcher specializing in blockchain security. I have been actively auditing EVM based smart contracts since 2023 and have found more than 85+ vulnerabilites across all the audit platforms. I compete at platforms like Code4Arena, Sherlock, and Secure3. I compete with my other name `pseudoArtist` on sherlock
 
 # Findings across all platforms
 
