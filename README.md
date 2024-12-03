@@ -28,7 +28,7 @@ https://x.com/0xWeb3boy
 |26| [BlastTheBaloon.md](https://github.com/user-attachments/files/17903931/BTB_Audit_Report.md) | Private Audit |  2H, 3M, 2L |  |  
 |25| [AdamDefi](https://app.secure3.io/b14f6c27c9?tab=submission) | Secure3| 1H, 3L |  |  
 |24| [Sentiment](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | Sherlock |  4M | #17 |  
-|23| ZetaChain | Cantina |1H , 3M | #20 |  
+|23| [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e/leaderboard) | Cantina |1H , 3M | #20 |  
 |22| Undisclosed |Private Audit| 2H , 4M, 7L|  |  
 |21| [Velocimeter](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | Sherlock | 2H , 1M | -- |  
 |20| [Notional Leveraged Vaults](https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/28) |Sherlock| 1H | -- |  
@@ -40,9 +40,9 @@ https://x.com/0xWeb3boy
 |15| Lagrange_State_Committee| Secure3 |1M | #4  | 
 |14| zklink MergeToken| Secure3 |1M , 2L | - |
 |13| Loxodrome| Secure3 |1L | --  | 
-|12| RadicalxChange | Sherlock|1H | #4  | 
-|11| Axis-Finance | Sherlock|1H | #10  | 
-|10| Zivoe Finance | Sherlock |1M |  |  
+|12| [RadicalxChange](https://audits.sherlock.xyz/contests/191/leaderboard) | Sherlock|1H | #4  | 
+|11| [Axis-Finance](https://audits.sherlock.xyz/contests/206/leaderboard) | Sherlock|1H | #10  | 
+|10| [Zivoe Finance](https://audits.sherlock.xyz/contests/280/leaderboard) | Sherlock |1M |  |  
 |9| BeedleFi | Codehawks |1H | #113 |  
 |8| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena#top) | Code4Arena|Grade A Analysis | #38  | 
 |7| [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime) |Code4Arena |1 M | #53  |  
