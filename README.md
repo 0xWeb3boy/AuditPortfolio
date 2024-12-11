@@ -1,11 +1,11 @@
 # AuditPortfolio
 ## 85+ vulnerabilities found 
-Hello, I am 0xWeb3Boy, a cybersecurity researcher specializing in blockchain security. I have been actively auditing EVM based smart contracts since 2023 and have found more than 85+ vulnerabilites across all the audit platforms. I compete at platforms like Code4Arena, Sherlock, and Secure3. I compete with my other name `pseudoArtist` on sherlock
+Hello, I am 0xWeb3Boy, a cybersecurity researcher specializing in blockchain security. I have been actively auditing EVM based smart contracts since 2023 and have found more than 90+ vulnerabilites across all the audit platforms. I compete at platforms like Code4Arena, Sherlock, and Secure3. I compete with my other name `pseudoArtist` on sherlock
 
 # Findings across all platforms
 
 ## 21 High 
-## 45 Medium 
+## 47 Medium 
 ## 22 Low 
 
 
@@ -22,6 +22,7 @@ https://x.com/0xWeb3boy
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
+|30| [Avantis](https://audits.sherlock.xyz/contests/485/leaderboard) | Sherlock |  2M | #13 |  
 |29| [Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2/leaderboard) | Cantina |  2M | #7 |  
 |28| [Covalent - EWM Light Client](https://audits.sherlock.xyz/contests/618/leaderboard) | Sherlock |  1M | #3 |  
 |27| [Dayvidende](https://github.com/user-attachments/files/17892788/DVE_AuditReport.md)| Private Audit |  3H, 4M, 1L ||  
@@ -52,7 +53,7 @@ https://x.com/0xWeb3boy
 |3| [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs) |Code4Arena Grade| A Analysis  |  
 |2| [BrahmaFi](https://code4rena.com/reports/2023-10-brahma) |Code4Arena| Grade A Analysis | #28 | 
 |1| [veRWA](https://code4rena.com/reports/2023-08-verwa) |Code4Arena| 1 Low | #104 | 
-| Overall |  || 21H, 45M, 22L  ||
+| Overall |  || 21H, 47M, 22L  ||
 
 
 
