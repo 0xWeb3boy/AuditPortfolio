@@ -4,7 +4,7 @@ Hello, I am pseudoArtist aka 0xWeb3Boy, a cybersecurity researcher specializing 
 
 # Findings across all platforms
 
-## 21 High 
+## 22 High 
 ## 47 Medium 
 ## 22 Low 
 
@@ -22,6 +22,7 @@ https://x.com/0xWeb3boy
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
+|31| [Idle_Finance](https://audits.sherlock.xyz/contests/571/leaderboard) | Sherlock |  1H | #7 |  
 |30| [Avantis](https://audits.sherlock.xyz/contests/485/leaderboard) | Sherlock |  2M | #13 |  
 |29| [Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2/leaderboard) | Cantina |  2M | #7 |  
 |28| [Covalent - EWM Light Client](https://audits.sherlock.xyz/contests/618/leaderboard) | Sherlock |  1M | #3 |  
@@ -53,7 +54,7 @@ https://x.com/0xWeb3boy
 |3| [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs) |Code4Arena Grade| A Analysis  |  
 |2| [BrahmaFi](https://code4rena.com/reports/2023-10-brahma) |Code4Arena| Grade A Analysis | #28 | 
 |1| [veRWA](https://code4rena.com/reports/2023-08-verwa) |Code4Arena| 1 Low | #104 | 
-| Overall |  || 21H, 47M, 22L  ||
+| Overall |  || 22H, 47M, 22L  ||
 
 
 
