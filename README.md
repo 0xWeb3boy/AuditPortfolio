@@ -17,7 +17,6 @@ https://x.com/0xWeb3boy
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
-
 |25| [Idle_Finance](https://audits.sherlock.xyz/contests/571/leaderboard) | Sherlock |  1H | #7 |  
 |24| [Avantis](https://audits.sherlock.xyz/contests/485/leaderboard) | Sherlock |  2M | #13 |  
 |23| [Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2/leaderboard) | Cantina |  2M | #7 |  
