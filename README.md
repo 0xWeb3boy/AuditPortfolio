@@ -8,15 +8,10 @@ Hello, I am pseudoArtist aka 0xWeb3Boy, a cybersecurity researcher specializing 
 ## 49 Medium 
 ## 26 Low 
 
-
-
 ## YouTube :
 https://www.youtube.com/@WEB3BOY
 ## Twitter
 https://x.com/0xWeb3boy
-
-
-
 
 ## Audit Contest
 
@@ -54,7 +49,7 @@ https://x.com/0xWeb3boy
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
-|4| [Fishing Frenzy P2 ](https://github.com/user-attachments/files/18550574/Fishing.Frenzy.P2.Audit-.Sub7.Security-.230125.pdf) | Private Audit |  1H | #7 |  
+|4| [Fishing Frenzy P2 ](https://github.com/user-attachments/files/18550574/Fishing.Frenzy.P2.Audit-.Sub7.Security-.230125.pdf) | Private Audit |  1H |  |  
 |3| [Dayvidende](https://github.com/user-attachments/files/18550559/Dayvidende.Smart.Contracts.Audit.Report.-.QuillAudits.pdf)| Private Audit |  2H, 3M, 3L ||  
 |2| [Spheron](https://docs.google.com/document/d/1nsINf2kfcF2pQiYv6sg9yZqBrFImw5YOda9hwstDKok/edit?tab=t.0) |Private Audit| 6M, 6L|  |  
 |1| [BlastTheBaloon](https://github.com/user-attachments/files/18550529/SUB7_REPORT_BTB.smart.contract.audit.Final.Report_20241030-101924.pdf) | Private Audit |  2H, 3M, 3L |  |  
