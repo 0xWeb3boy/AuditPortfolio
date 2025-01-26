@@ -54,8 +54,8 @@ For private audits or security consulting, please reach out on:
 
 # Highlights
 
-### 100+ vulnerabilities found across all the platforms aggregated
-### 21 High, 53 Medium, 31 Low 
+* 100+ vulnerabilities found across all the platforms aggregated
+* 21 High, 53 Medium, 31 Low 
 
 
 
