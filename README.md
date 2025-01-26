@@ -17,20 +17,21 @@ https://x.com/0xWeb3boy
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
-|24| [Agni_Finance](https://www.linkedin.com/feed/update/urn:li:activity:7282071309138718721/) | Secure3 |  1H, 1M, 4L | #7 |  
-|24| [Idle_Finance](https://audits.sherlock.xyz/contests/571/leaderboard) | Sherlock |  1H | #7 |  
-|23| [Avantis](https://audits.sherlock.xyz/contests/485/leaderboard) | Sherlock |  2M | #13 |  
-|22| [Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2/leaderboard) | Cantina |  2M | #7 |  
-|21| [Covalent - EWM Light Client](https://audits.sherlock.xyz/contests/618/leaderboard) | Sherlock |  1M | #3 |  
-|20| [AdamDefi](https://app.secure3.io/b14f6c27c9?tab=submission) | Secure3| 1H, 3L |  |  
-|19| [Sentiment](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | Sherlock |  4M | #17 |  
-|18| [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e/leaderboard) | Cantina |1H , 3M | #20 |  
-|17| [Velocimeter](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | Sherlock | 2H , 1M | -- |  
-|16| [Notional Leveraged Vaults](https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/28) |Sherlock| 1H | -- |  
-|15| [FBTC](https://app.secure3.io/614576bf93?tab=winners) | Secure3 |1M | #7 |  
-|14| [Enders V1](https://app.secure3.io/16a8f0eebf?tab=winners) | Secure3| 1L | #15 |  
-|13| [Predy](https://code4rena.com/audits/2024-05-predy#top) | Code4Arena|5M | #18  |  
-|12| [NOYA](https://code4rena.com/audits/2024-04-noya#top) | Code4Arena|5H,9M | #21 | 
+
+|25| [Idle_Finance](https://audits.sherlock.xyz/contests/571/leaderboard) | Sherlock |  1H | #7 |  
+|24| [Avantis](https://audits.sherlock.xyz/contests/485/leaderboard) | Sherlock |  2M | #13 |  
+|23| [Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2/leaderboard) | Cantina |  2M | #7 |  
+|22| [Covalent - EWM Light Client](https://audits.sherlock.xyz/contests/618/leaderboard) | Sherlock |  1M | #3 |  
+|21| [AdamDefi](https://app.secure3.io/b14f6c27c9?tab=submission) | Secure3| 1H, 3L |  |  
+|20| [Sentiment](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | Sherlock |  4M | #17 |  
+|19| [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e/leaderboard) | Cantina |1H , 3M | #20 |  
+|18| [Velocimeter](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues) | Sherlock | 2H , 1M | -- |  
+|17| [Notional Leveraged Vaults](https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/28) |Sherlock| 1H | -- |  
+|16| [FBTC](https://app.secure3.io/614576bf93?tab=winners) | Secure3 |1M | #7 |  
+|15| [Enders V1](https://app.secure3.io/16a8f0eebf?tab=winners) | Secure3| 1L | #15 |  
+|14| [Predy](https://code4rena.com/audits/2024-05-predy#top) | Code4Arena|5M | #18  |  
+|13| [NOYA](https://code4rena.com/audits/2024-04-noya#top) | Code4Arena|5H,9M | #21 | 
+|12| [Agni_Finance](https://www.linkedin.com/feed/update/urn:li:activity:7282071309138718721/) | Secure3 |  1H, 1M, 4L | #7 |  
 |11| Ape Launchpad | Secure3|3M, 2L | #4  |
 |10| Lagrange_State_Committee| Secure3 |1M | #4  | 
 |9| zklink MergeToken| Secure3 |1M , 2L | - |
