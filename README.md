@@ -52,7 +52,7 @@ For private audits or security consulting, please reach out on:
 |1| [veRWA](https://code4rena.com/reports/2023-08-verwa) |Code4Arena| 1 Low | #104 | 
 | Overall |  || 16H, 37M, 14L  ||
 
-#Highlights
+# Highlights
 
 ## 100+ vulnerabilities found across all the platforms aggregated
 ## 21 High, 53 Medium, 31 Low 
