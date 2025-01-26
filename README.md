@@ -1,12 +1,12 @@
 # AuditPortfolio
 ## 90+ vulnerabilities found 
-Hello, I am pseudoArtist aka 0xWeb3Boy, a cybersecurity researcher specializing in blockchain security. I have been actively auditing EVM based smart contracts since 2023 and have found more than 90+ vulnerabilites across all the audit platforms. I compete at platforms like Code4Arena, Sherlock, and Secure3.
+Hello, I am pseudoArtist aka 0xWeb3Boy, a cybersecurity researcher specializing in blockchain security. I have been actively auditing EVM based smart contracts since 2023 and have found more than 100+ vulnerabilites across all the audit platforms. I compete at platforms like Code4Arena, Sherlock, and Secure3.
 
 # Findings across all platforms
 
 ## 21 High 
-## 49 Medium 
-## 26 Low 
+## 53 Medium 
+## 31 Low 
 
 ## YouTube :
 https://www.youtube.com/@WEB3BOY
@@ -18,11 +18,11 @@ https://x.com/0xWeb3boy
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
-|4| [Fishing Frenzy P2 ](https://github.com/user-attachments/files/18550574/Fishing.Frenzy.P2.Audit-.Sub7.Security-.230125.pdf) | Private Audit |  1H |  |  
+|4| [Fishing Frenzy P2 ](https://github.com/user-attachments/files/18550574/Fishing.Frenzy.P2.Audit-.Sub7.Security-.230125.pdf) | Private Audit |  1H ,4M, 5L |  |  
 |3| [Dayvidende](https://github.com/user-attachments/files/18550559/Dayvidende.Smart.Contracts.Audit.Report.-.QuillAudits.pdf)| Private Audit |  2H, 3M, 3L ||  
 |2| [Spheron](https://docs.google.com/document/d/1nsINf2kfcF2pQiYv6sg9yZqBrFImw5YOda9hwstDKok/edit?tab=t.0) |Private Audit| 6M, 6L|  |  
 |1| [BlastTheBaloon](https://github.com/user-attachments/files/18550529/SUB7_REPORT_BTB.smart.contract.audit.Final.Report_20241030-101924.pdf) | Private Audit |  2H, 3M, 3L |  |  
-| Overall |  || 5H, 12M, 12L  ||
+| Overall |  || 5H, 16M, 17L  ||
 
 ## Audit Contest
 
