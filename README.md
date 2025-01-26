@@ -1,20 +1,17 @@
 # AuditPortfolio
-## 100+ vulnerabilities found 
-Hello, I am pseudoArtist aka 0xWeb3Boy, a cybersecurity researcher specializing in blockchain security. I have been actively auditing EVM based smart contracts since 2023 and have found more than 100+ vulnerabilites across all the audit platforms. I compete at platforms like Code4Arena, Sherlock, and Secure3.
+## About Me
+* Independent Smart Contract Security Researcher.
+* Currently doing audit contests in sherlock, c4, cantina, and Secure3.
+* 100+ total vulnerabilities found
 
-# Findings across all platforms
+## Request an audit
+For private audits or security consulting, please reach out on:
+- Twitter  - [0xWeb3boy](https://x.com/0xWeb3boy)
+- Telegram - [@itsweb3boy](https://t.me/itsweb3boy)
 
-## 21 High 
-## 53 Medium 
-## 31 Low 
 
-## YouTube :
-https://www.youtube.com/@WEB3BOY
-## Twitter
-https://x.com/0xWeb3boy
 
 # Private Audit Engagements
-
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
@@ -54,6 +51,11 @@ https://x.com/0xWeb3boy
 |2| [Dopex](https://code4rena.com/audits/2023-08-dopex) |Code4Arena |1 H, 1 M | #110  |
 |1| [veRWA](https://code4rena.com/reports/2023-08-verwa) |Code4Arena| 1 Low | #104 | 
 | Overall |  || 16H, 37M, 14L  ||
+
+#Highlights
+
+## 100+ vulnerabilities found across all the platforms aggregated
+## 21 High, 53 Medium, 31 Low 
 
 
 
