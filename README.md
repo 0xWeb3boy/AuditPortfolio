@@ -15,16 +15,18 @@ For private audits or security consulting, please reach out on:
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
+|5| [Amplifi_APP](https://github.com/user-attachments/files/18750858/SUB7_REPORT_Amplifi_APP_Smart_Contracts_Audit_20250210_192120.pdf) | Private Audit |  3H ,5M, 2L |  |  
 |4| [Fishing Frenzy P2 ](https://github.com/user-attachments/files/18550574/Fishing.Frenzy.P2.Audit-.Sub7.Security-.230125.pdf) | Private Audit |  1H ,4M, 5L |  |  
 |3| [Dayvidende](https://github.com/user-attachments/files/18550559/Dayvidende.Smart.Contracts.Audit.Report.-.QuillAudits.pdf)| Private Audit |  2H, 3M, 3L ||  
 |2| [Spheron](https://docs.google.com/document/d/1nsINf2kfcF2pQiYv6sg9yZqBrFImw5YOda9hwstDKok/edit?tab=t.0) |Private Audit| 6M, 6L|  |  
 |1| [BlastTheBaloon](https://github.com/user-attachments/files/18550529/SUB7_REPORT_BTB.smart.contract.audit.Final.Report_20241030-101924.pdf) | Private Audit |  2H, 3M, 3L |  |  
-| Overall |  || 5H, 16M, 17L  ||
+| Overall |  || 8H, 21M, 19L  ||
 
 ## Audit Contest
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
+|26| [Bera Borrow](https://github.com/sherlock-audit/2025-01-boyco-judging/issues/77) | Sherlock |  1M | #8 |  
 |25| [Idle_Finance](https://audits.sherlock.xyz/contests/571/leaderboard) | Sherlock |  1H | #7 |  
 |24| [Avantis](https://audits.sherlock.xyz/contests/485/leaderboard) | Sherlock |  2M | #13 |  
 |23| [Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2/leaderboard) | Cantina |  2M | #7 |  
@@ -50,12 +52,12 @@ For private audits or security consulting, please reach out on:
 |3| [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime) |Code4Arena |1 M | #53  |  
 |2| [Dopex](https://code4rena.com/audits/2023-08-dopex) |Code4Arena |1 H, 1 M | #110  |
 |1| [veRWA](https://code4rena.com/reports/2023-08-verwa) |Code4Arena| 1 Low | #104 | 
-| Overall |  || 16H, 37M, 14L  ||
+| Overall |  || 16H, 38M, 14L  ||
 
 # Highlights
 
 * 100+ vulnerabilities found across all the platforms aggregated
-* 21 High, 53 Medium, 31 Low 
+* 24 High, 59 Medium, 33 Low 
 
 
 
