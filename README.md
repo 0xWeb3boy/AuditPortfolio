@@ -13,14 +13,14 @@ For private audits or security consulting, please reach out on:
 
 # Private Audit Engagements
 
-| Sl. No| Contest | Platform | Findings | Rankings | 
-|:--:|:--:|:--:|:--:|:--:|
-|5| [Amplifi_APP](https://github.com/user-attachments/files/18750858/SUB7_REPORT_Amplifi_APP_Smart_Contracts_Audit_20250210_192120.pdf) | Private Audit |  3H ,5M, 2L |  |  
-|4| [Fishing Frenzy P2 ](https://github.com/user-attachments/files/18550574/Fishing.Frenzy.P2.Audit-.Sub7.Security-.230125.pdf) | Private Audit |  1H ,4M, 5L |  |  
-|3| [Dayvidende](https://github.com/user-attachments/files/18550559/Dayvidende.Smart.Contracts.Audit.Report.-.QuillAudits.pdf)| Private Audit |  2H, 3M, 3L ||  
+| Sl. No| Contest | Platform | Findings | 
+|:--:|:--:|:--:|:--:|
+|5| [Amplifi_APP](https://github.com/user-attachments/files/18750858/SUB7_REPORT_Amplifi_APP_Smart_Contracts_Audit_20250210_192120.pdf) | Private Audit |  3H ,5M, 2L |    
+|4| [Fishing Frenzy P2 ](https://github.com/user-attachments/files/18550574/Fishing.Frenzy.P2.Audit-.Sub7.Security-.230125.pdf) | Private Audit |  1H ,4M, 5L |    
+|3| [Dayvidende](https://github.com/user-attachments/files/18550559/Dayvidende.Smart.Contracts.Audit.Report.-.QuillAudits.pdf)| Private Audit |  2H, 3M, 3L |  
 |2| [Spheron](https://docs.google.com/document/d/1nsINf2kfcF2pQiYv6sg9yZqBrFImw5YOda9hwstDKok/edit?tab=t.0) |Private Audit| 6M, 6L|  |  
-|1| [BlastTheBaloon](https://github.com/user-attachments/files/18550529/SUB7_REPORT_BTB.smart.contract.audit.Final.Report_20241030-101924.pdf) | Private Audit |  2H, 3M, 3L |  |  
-| Overall |  || 8H, 21M, 19L  ||
+|1| [BlastTheBaloon](https://github.com/user-attachments/files/18550529/SUB7_REPORT_BTB.smart.contract.audit.Final.Report_20241030-101924.pdf) | Private Audit |  2H, 3M, 3L |    
+| Overall |  || 8H, 21M, 19L  |
 
 ## Audit Contest
 
