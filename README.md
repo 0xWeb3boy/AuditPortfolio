@@ -22,7 +22,7 @@ For private audits or security consulting, please reach out on:
 |3| Dayvidende (Report Private)| Private Audit |  2H, 3M, 3L |  
 |2| Spheron (Report Private)|Private Audit| 6M, 6L|  |  
 |1| [BlastTheBaloon](https://github.com/user-attachments/files/18550529/SUB7_REPORT_BTB.smart.contract.audit.Final.Report_20241030-101924.pdf) | Private Audit |  2H, 3M, 3L |    
-| Overall |  || 8H, 21M, 19L  |
+| Overall |  || 11H, 26M, 26L  |
 
 ## Audit Contest
 
@@ -58,8 +58,8 @@ For private audits or security consulting, please reach out on:
 
 # Highlights
 
-* 100+ vulnerabilities found across all the platforms aggregated
-* 24 High, 59 Medium, 33 Low 
+* 90+ H/M vulnerabilities found across all the platforms aggregated
+* 27 High, 64 Medium, 40 Low 
 
 
 
