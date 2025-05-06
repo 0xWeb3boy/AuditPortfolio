@@ -15,6 +15,7 @@ For private audits or security consulting, please reach out on:
 
 | Sl. No| Contest | Platform | Findings | 
 |:--:|:--:|:--:|:--:|
+|7| [Beraji Smart Contract Audit](https://github.com/user-attachments/files/20068274/SUB7_REPORT_Beraji.Smart.Contract.Audit_20250416-09305.1.pdf)  | Private Audit |  3H ,2M, 4L |  
 |7| Spheronfdn (Report Private)  | Private Audit |  3H ,4M, 6L |    
 |6| Kresus  (Report Private) | Private Audit | 1M, 1L |    
 |5| [Amplifi_APP](https://github.com/user-attachments/files/18750858/SUB7_REPORT_Amplifi_APP_Smart_Contracts_Audit_20250210_192120.pdf) | Private Audit |  3H ,5M, 2L |    
