@@ -2,7 +2,7 @@
 ## About Me
 * Independent Smart Contract Security Researcher.
 * Currently doing audit contests in sherlock, c4, cantina, and Secure3.
-* 100+ total vulnerabilities found
+* 100+ H/M  vulnerabilities found
 
 ## Request an audit
 For private audits or security consulting, please reach out on:
