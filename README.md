@@ -19,11 +19,11 @@ For private audits or security consulting, please reach out on:
 |8| [Beraji Smart Contract Audit](https://github.com/user-attachments/files/20068274/SUB7_REPORT_Beraji.Smart.Contract.Audit_20250416-09305.1.pdf)  | Private Audit |  3H ,2M, 4L |  
 |7| Spheronfdn (Report Private)  | Private Audit |  3H ,4M, 6L |    
 |6| Kresus  (Report Private) | Private Audit | 1M, 1L |    
-|5| [Amplifi_APP](https://github.com/user-attachments/files/18750858/SUB7_REPORT_Amplifi_APP_Smart_Contracts_Audit_20250210_192120.pdf) | Private Audit |  3H ,5M, 2L |    
-|4| [Fishing Frenzy P2 ](https://github.com/user-attachments/files/18550574/Fishing.Frenzy.P2.Audit-.Sub7.Security-.230125.pdf) | Private Audit |  1H ,4M, 5L |    
+|5| [Amplifi_Smart Contract Audit](https://github.com/user-attachments/files/18750858/SUB7_REPORT_Amplifi_APP_Smart_Contracts_Audit_20250210_192120.pdf) | Private Audit |  3H ,5M, 2L |    
+|4| [Fishing Frenzy Smart Contract Audit ](https://github.com/user-attachments/files/18550574/Fishing.Frenzy.P2.Audit-.Sub7.Security-.230125.pdf) | Private Audit |  1H ,4M, 5L |    
 |3| Dayvidende (Report Private)| Private Audit |  2H, 3M, 3L |  
 |2| Spheron (Report Private)|Private Audit| 6M, 6L|  |  
-|1| [BlastTheBaloon](https://github.com/user-attachments/files/18550529/SUB7_REPORT_BTB.smart.contract.audit.Final.Report_20241030-101924.pdf) | Private Audit |  2H, 3M, 3L |    
+|1| [BlastTheBaloon Smart Contract Audit](https://github.com/user-attachments/files/18550529/SUB7_REPORT_BTB.smart.contract.audit.Final.Report_20241030-101924.pdf) | Private Audit |  2H, 3M, 3L |    
 | Overall |  || 16H, 32M, 35L  |
 
 ## Audit Contest
