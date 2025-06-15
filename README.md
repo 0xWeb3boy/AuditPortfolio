@@ -15,7 +15,8 @@ For private audits or security consulting, please reach out on:
 
 | Sl. No| Contest | Platform | Findings | 
 |:--:|:--:|:--:|:--:|
-|7| [Beraji Smart Contract Audit](https://github.com/user-attachments/files/20068274/SUB7_REPORT_Beraji.Smart.Contract.Audit_20250416-09305.1.pdf)  | Private Audit |  3H ,2M, 4L |  
+|9| [POLLY Smart Contract Audit]([SUB7_REPORT_Polly Audit ](https://github.com/user-attachments/files/20745086/SUB7_REPORT_Polly.Audit._20250507-103017.pdf)  | Private Audit |  2H ,4M, 5L |  
+|8| [Beraji Smart Contract Audit](https://github.com/user-attachments/files/20068274/SUB7_REPORT_Beraji.Smart.Contract.Audit_20250416-09305.1.pdf)  | Private Audit |  3H ,2M, 4L |  
 |7| Spheronfdn (Report Private)  | Private Audit |  3H ,4M, 6L |    
 |6| Kresus  (Report Private) | Private Audit | 1M, 1L |    
 |5| [Amplifi_APP](https://github.com/user-attachments/files/18750858/SUB7_REPORT_Amplifi_APP_Smart_Contracts_Audit_20250210_192120.pdf) | Private Audit |  3H ,5M, 2L |    
@@ -23,12 +24,13 @@ For private audits or security consulting, please reach out on:
 |3| Dayvidende (Report Private)| Private Audit |  2H, 3M, 3L |  
 |2| Spheron (Report Private)|Private Audit| 6M, 6L|  |  
 |1| [BlastTheBaloon](https://github.com/user-attachments/files/18550529/SUB7_REPORT_BTB.smart.contract.audit.Final.Report_20241030-101924.pdf) | Private Audit |  2H, 3M, 3L |    
-| Overall |  || 14H, 28M, 30L  |
+| Overall |  || 16H, 32M, 35L  |
 
 ## Audit Contest
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
+|27| [Mighty Finance](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/leaderboard) | Cantina |  3H ,1M | #40 |  
 |26| [Bera Borrow](https://github.com/sherlock-audit/2025-01-boyco-judging/issues/77) | Sherlock |  1M | #8 |  
 |25| [Idle_Finance](https://audits.sherlock.xyz/contests/571/leaderboard) | Sherlock |  1H | #7 |  
 |24| [Avantis](https://audits.sherlock.xyz/contests/485/leaderboard) | Sherlock |  2M | #13 |  
@@ -55,12 +57,12 @@ For private audits or security consulting, please reach out on:
 |3| [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime) |Code4Arena |1 M | #53  |  
 |2| [Dopex](https://code4rena.com/audits/2023-08-dopex) |Code4Arena |1 H, 1 M | #110  |
 |1| [veRWA](https://code4rena.com/reports/2023-08-verwa) |Code4Arena| 1 Low | #104 | 
-| Overall |  || 16H, 38M, 14L  ||
+| Overall |  || 19H, 39M, 14L  ||
 
 # Highlights
 
 * 90+ H/M vulnerabilities found across all the platforms aggregated
-* 30 High, 66 Medium, 44 Low 
+* 35 High, 71 Medium, 49 Low 
 
 
 
