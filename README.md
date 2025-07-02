@@ -62,7 +62,7 @@ For private audits or security consulting, please reach out on:
 
 # Highlights
 
-* 90+ H/M vulnerabilities found across all the platforms aggregated
+* 100+ H/M vulnerabilities found across all the platforms aggregated
 * 35 High, 72 Medium, 49 Low 
 
 
