@@ -1,7 +1,7 @@
 # AuditPortfolio
 ## About Me
 * Independent Smart Contract Security Researcher.
-* Currently doing audit contests in sherlock, c4, cantina, and Secure3.
+* Currently ranked auditor on contest platforms like sherlock, c4, cantina, and Secure3.
 * 100+ H/M  vulnerabilities found
 
 ## Request an audit
