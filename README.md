@@ -10,7 +10,6 @@ For private audits or security consulting, please reach out on:
 - Telegram - [@itsweb3boy](https://t.me/itsweb3boy)
 
 
-
 # Private Audit Engagements
 
 | Sl. No| Contest | Platform | Findings | 
@@ -30,6 +29,7 @@ For private audits or security consulting, please reach out on:
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
+|29| [Alchemix](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a/leaderboard) | Cantina | 3H , 3M | #58 |  
 |28| [MetroPolis Liquidity Vaults](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194/leaderboard) | Cantina | 1M | #45 |  
 |27| [Mighty Finance](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/leaderboard) | Cantina |  3H ,1M | #40 |  
 |26| [Bera Borrow](https://github.com/sherlock-audit/2025-01-boyco-judging/issues/77) | Sherlock |  1M | #8 |  
@@ -58,12 +58,12 @@ For private audits or security consulting, please reach out on:
 |3| [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime) |Code4Arena |1 M | #53  |  
 |2| [Dopex](https://code4rena.com/audits/2023-08-dopex) |Code4Arena |1 H, 1 M | #110  |
 |1| [veRWA](https://code4rena.com/reports/2023-08-verwa) |Code4Arena| 1 Low | #104 | 
-| Overall |  || 19H, 40M, 14L  ||
+| Overall |  || 22H, 43M, 14L  ||
 
 # Highlights
 
 * 100+ H/M vulnerabilities found across all the platforms aggregated
-* 35 High, 72 Medium, 49 Low 
+* 38 High, 75 Medium, 49 Low 
 
 
 
