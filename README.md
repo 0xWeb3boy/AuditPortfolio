@@ -30,7 +30,7 @@ For private audits or security consulting, please reach out on:
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
-|30| [Flare Network](https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/#top) | Immunefi | 2M , 1L | #8 |  
+|30| [Flare Network](https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/#top) | Immunefi | 3M  | #8 |  
 |29| [Alchemix](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a/leaderboard) | Cantina | 3H , 3M | #58 |  
 |28| [MetroPolis Liquidity Vaults](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194/leaderboard) | Cantina | 1M | #45 |  
 |27| [Mighty Finance](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/leaderboard) | Cantina |  3H ,1M | #40 |  
@@ -60,12 +60,12 @@ For private audits or security consulting, please reach out on:
 |3| [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime) |Code4Arena |1 M | #53  |  
 |2| [Dopex](https://code4rena.com/audits/2023-08-dopex) |Code4Arena |1 H, 1 M | #110  |
 |1| [veRWA](https://code4rena.com/reports/2023-08-verwa) |Code4Arena| 1 Low | #104 | 
-| Overall |  || 22H, 45M, 15L  ||
+| Overall |  || 22H, 46M, 14L  ||
 
 # Highlights
 
 * 100+ H/M vulnerabilities found across all the platforms aggregated
-* 38 High, 77 Medium, 50 Low 
+* 38 High, 78 Medium, 49 Low 
 
 
 
