@@ -1,6 +1,7 @@
 # AuditPortfolio
 ## About Me
 * [0xWeb3boy CV ](https://github.com/user-attachments/files/21577143/Mahendrabhishek.resume.pages.pdf)
+* [Contest Profile](https://audits.sherlock.xyz/watson/pseudoArtist)
 * Independent Smart Contract Security Researcher.
 * Currently ranked auditor on contest platforms like sherlock, c4, cantina, and Secure3.
 * 100+ H/M  vulnerabilities found
