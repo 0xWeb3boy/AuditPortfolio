@@ -16,6 +16,7 @@ For private audits or security consulting, please reach out on:
 
 | Sl. No| Contest | Platform | Findings | 
 |:--:|:--:|:--:|:--:|
+|11| Vault Audit(Report yet to be published)| Private Audit(Pashov Audit Group) |  1M,1L |  
 |10| [afiUSD Audit ](https://github.com/user-attachments/files/21918651/afiUSD.pdf)  | Private Audit |  3L |  
 |9| [Polly Smart Contract Audit ](https://github.com/user-attachments/files/20745086/SUB7_REPORT_Polly.Audit._20250507-103017.pdf)  | Private Audit |  2H ,4M, 5L |  
 |8| [Beraji Smart Contract Audit](https://github.com/user-attachments/files/20068274/SUB7_REPORT_Beraji.Smart.Contract.Audit_20250416-09305.1.pdf)  | Private Audit |  3H ,2M, 4L |  
@@ -26,7 +27,7 @@ For private audits or security consulting, please reach out on:
 |3| Dayvidende (Report Private)| Private Audit |  2H, 3M, 3L |  
 |2| Spheron (Report Private)|Private Audit| 6M, 6L|  |  
 |1| [BlastTheBaloon Smart Contract Audit](https://github.com/user-attachments/files/18550529/SUB7_REPORT_BTB.smart.contract.audit.Final.Report_20241030-101924.pdf) | Private Audit |  2H, 3M, 3L |    
-| Overall |  || 16H, 32M, 38L  |
+| Overall |  || 16H, 33M, 39L  |
 
 ## Audit Contest
 
