@@ -16,7 +16,7 @@ For private audits or security consulting, please reach out on:
 
 | Sl. No| Contest | Platform | Findings | 
 |:--:|:--:|:--:|:--:|
-|11| Vault Audit(Report yet to be published)| Private Audit(Pashov Audit Group) |  1M,1L |  
+|11| Vault Audit(Report yet to be published)| Pashov Audit Group |  1M,1L |  
 |10| [afiUSD Audit ](https://github.com/user-attachments/files/21918651/afiUSD.pdf)  | Private Audit |  3L |  
 |9| [Polly Smart Contract Audit ](https://github.com/user-attachments/files/20745086/SUB7_REPORT_Polly.Audit._20250507-103017.pdf)  | Private Audit |  2H ,4M, 5L |  
 |8| [Beraji Smart Contract Audit](https://github.com/user-attachments/files/20068274/SUB7_REPORT_Beraji.Smart.Contract.Audit_20250416-09305.1.pdf)  | Private Audit |  3H ,2M, 4L |  
