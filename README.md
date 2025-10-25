@@ -16,7 +16,7 @@ For private audits or security consulting, please reach out on:
 
 | Sl. No| Contest | Platform | Findings | 
 |:--:|:--:|:--:|:--:|
-|13| Vault Audit(Report yet to be published)| AdevarLabs |  3H,6M, 7L |  
+|13| Mace Audit (Report yet to be published)| AdevarLabs |  3H,6M, 7L |  
 |12| [Cove](https://github.com/user-attachments/files/23142614/Cove-security-review_2025-09-12.pdf) | Pashov Audit Group |  1H,4M, 6L|  
 |11| Vault Audit(Report yet to be published)| Pashov Audit Group |  1M,1L |  
 |10| [afiUSD Audit ](https://github.com/user-attachments/files/21918651/afiUSD.pdf)  | Private Audit |  3L |  
