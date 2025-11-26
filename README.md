@@ -35,6 +35,7 @@ For private audits or security consulting, please reach out on:
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
 |:--:|:--:|:--:|:--:|:--:|
+|31| [Plume Network](https://immunefi.com/audit-competition/plume-network-attackathon/leaderboard/#top) | Immunefi (Team Audit) | 3H, 6M , 1L | #6 |  
 |30| [Flare Network](https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/#top) | Immunefi | 3M  | #8 |  
 |29| [Alchemix](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a/leaderboard) | Cantina | 3H , 3M | #58 |  
 |28| [MetroPolis Liquidity Vaults](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194/leaderboard) | Cantina | 1M | #45 |  
@@ -65,7 +66,7 @@ For private audits or security consulting, please reach out on:
 |3| [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime) |Code4Arena |1 M | #53  |  
 |2| [Dopex](https://code4rena.com/audits/2023-08-dopex) |Code4Arena |1 H, 1 M | #110  |
 |1| [veRWA](https://code4rena.com/reports/2023-08-verwa) |Code4Arena| 1 Low | #104 | 
-| Overall |  || 22H, 46M, 14L  ||
+| Overall |  || 25H, 52M, 15L  ||
 
 # Highlights
 
