@@ -31,6 +31,22 @@ For private audits or security consulting, please reach out on:
 |1| [BlastTheBaloon Smart Contract Audit](https://github.com/user-attachments/files/18550529/SUB7_REPORT_BTB.smart.contract.audit.Final.Report_20241030-101924.pdf) | Sub7 Security |  2H, 3M, 3L |    
 | Overall |  || 20H, 43M, 52L  |
 
+# Highlights Contest TOP 10
+
+| Sl. No| Contest | Platform | Findings | Rankings | 
+|:--:|:--:|:--:|:--:|:--:|
+|11| [Covalent - EWM Light Client](https://audits.sherlock.xyz/contests/618/leaderboard) | Sherlock |  1M | #3 |  
+|10| Ape Launchpad | Secure3|3M, 2L | #4  |
+|9| Lagrange_State_Committee| Secure3 |1M | #4  | 
+|8| [RadicalxChange](https://audits.sherlock.xyz/contests/191/leaderboard) | Sherlock|1H | #4  | 
+|7| [Plume Network](https://immunefi.com/audit-competition/plume-network-attackathon/leaderboard/#top) | Immunefi (Team Audit) | 3H, 6M , 1L | #6 |  
+|6| [Idle_Finance](https://audits.sherlock.xyz/contests/571/leaderboard) | Sherlock |  1H | #7 |  
+|5| [Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2/leaderboard) | Cantina |  2M | #7 |  
+|4| [Agni_Finance](https://www.linkedin.com/feed/update/urn:li:activity:7282071309138718721/) | Secure3 |  1H, 1M, 4L | #7 |  
+|3| [Flare Network](https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/#top) | Immunefi | 3M  | #8 |  
+|2| [Bera Borrow](https://github.com/sherlock-audit/2025-01-boyco-judging/issues/77) | Sherlock |  1M | #8 |  
+|1| [Axis-Finance](https://audits.sherlock.xyz/contests/206/leaderboard) | Sherlock|1H | #10  | 
+
 ## Audit Contest
 
 | Sl. No| Contest | Platform | Findings | Rankings | 
