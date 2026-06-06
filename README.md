@@ -17,7 +17,7 @@ For private audits or security consulting, please reach out on:
 |:--:|:--:|:--:|:--:|
 |2| KiiChain| KiiChain (Blockchain/DLT) | [Medium](https://github.com/KiiChain/kiichain/issues/338)  |  
 |1| KiiChain| KiiChain (Blockchain/DLT) |   [ Critical ](https://github.com/KiiChain/kiichain/issues/337) |  
-| Overall |  || 20H, 43M, 52L  |
+| Overall |  || 1 Critical , 1 Medium  |
 
 
 # Private Audit Engagements
