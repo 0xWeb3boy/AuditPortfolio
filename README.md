@@ -11,6 +11,14 @@ For private audits or security consulting, please reach out on:
 - Twitter  - [0xWeb3boy](https://x.com/0xWeb3boy)
 - Telegram - [@itsweb3boy](https://t.me/itsweb3boy)
 
+# Bug Bounty engagements
+
+| Sl. No| Protocol | Platform | Findings | 
+|:--:|:--:|:--:|:--:|
+|2| KiiChain| KiiChain (Blockchain/DLT) | [Medium](https://github.com/KiiChain/kiichain/issues/338)  |  
+|1| KiiChain| KiiChain (Blockchain/DLT) |   [ Critical ](https://github.com/KiiChain/kiichain/issues/337) |  
+| Overall |  || 20H, 43M, 52L  |
+
 
 # Private Audit Engagements
 
